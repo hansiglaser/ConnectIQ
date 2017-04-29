@@ -1,0 +1,4 @@
+<menu id="MainMenu" title="@Strings.MainMenu">
+  <menu-item id="accel">@Strings.accel</menu-item>
+  <menu-item id="mag">@Strings.mag</menu-item>
+</menu>

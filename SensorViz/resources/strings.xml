@@ -1,0 +1,6 @@
+<resources>
+  <string id="AppName">SensorViz</string>
+  <string id="MainMenu">SensorViz</string>
+  <string id="accel">Accelerometer</string>
+  <string id="mag">Magnetometer</string>
+</resources>
